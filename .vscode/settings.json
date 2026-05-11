@@ -1,0 +1,15 @@
+{
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "java.compile.nullAnalysis.mode": "automatic",
+
+    "files.exclude": {
+        "**/.git": true,
+        "**/.dart_tool": true,
+        "**/.flutter-plugins-dependencies": true,
+        "**/build": true,
+        "android/.gradle": true,
+        "android/app/build": true,
+        "**/pubspec.lock": true,
+        "**/*.log": true
+    }
+}
